@@ -1,0 +1,12 @@
+1.jpg 0 117 65 145 99
+2.jpg 0 129 218 131 122
+dota.jpg 0 208 325 86 61
+dota_jugg.jpg 0 180 228 87 63
+dota_logo.jpg 0 17 108 66 55
+dota_pa.jpg 0 502 172 79 86
+girl.jpg 0 128 140 230 190
+mogu.jpg 0 352 113 125 133
+pic.jpg 0 322 245 109 102
+pic1.jpg 0 196 300 139 130
+rain.jpg 0 224 270 110 84
+
